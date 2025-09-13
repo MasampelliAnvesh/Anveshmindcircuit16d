@@ -67,7 +67,7 @@
 <body>
   <h1>Hi Anvesh!</h1>
   <p>Welcome to DevOps World</p>
- <p>This Project bulid in slave node using jenkins Pipeline</p>
+ <p>This Project built in Slave Node Using Jenkins Pipeline</p>
 
 
   <div class="icons">
