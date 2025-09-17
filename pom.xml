@@ -19,7 +19,6 @@
 		    <id>NexusRepo</id>
 		    <url>http://ec2-44-202-151-225.compute-1.amazonaws.com:8081/repository/REPO-SNAPSHOT/</url>
 		 </snapshotRepository>
-		
 		<repository>
 		    <id>NexusRepo</id>
 		    <url>http://ec2-44-202-151-225.compute-1.amazonaws.com:8081/repository/REPO-RELIEASE/</url>
